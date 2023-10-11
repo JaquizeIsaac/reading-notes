@@ -14,4 +14,5 @@ What is it called when you give an element extra information?
 
 What is a semantic element?
 
-- Its describes the meaning between the browser and developer. 
+- Its describes the element.
+
