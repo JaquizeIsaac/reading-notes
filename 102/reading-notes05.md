@@ -8,4 +8,10 @@ External, Internal, and Inline CSS
 
 - Write an example of a CSS rule that would give all <'p'> elements red text.
 
-p {color: red;}
+p {
+
+color: red;
+
+text-align: center;
+
+}
