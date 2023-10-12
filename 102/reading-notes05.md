@@ -7,15 +7,15 @@
 
 - External CSS
 
-        You can change the apperance of a website by modifying a file. Everry HTML page needs to have a link to an external style sheet file within the <"link"> element.
+    You can change the apperance of a website by modifying a file. Everry HTML page needs to have a link to an external style sheet file within the <"link"> element.
 
 - Internal CSS
 
-        A single HTML page requires a unique style, an internal style sheet can be employed. This is specified within the <"style"> element.
+     A single HTML page requires a unique style, an internal style sheet can be employed. This is specified within the <"style"> element.
 
 - Inline CSS
 
-        You can utilize an inline style to give a certain appearance to an element, and can contain any CSS property.
+    You can utilize an inline style to give a certain appearance to an element, and can contain any CSS property.
 
 
 ## Write an example of a CSS rule that would give all <'p'> elements red text.
