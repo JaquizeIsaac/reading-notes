@@ -1,4 +1,4 @@
-# HTML
+# Structure web pages with HTML
 
 What is HTML and why do we use it?
 

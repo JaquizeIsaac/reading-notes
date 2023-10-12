@@ -1,4 +1,4 @@
-# Class-02-Summary
+# The Coder's Computer
 
 Text editor, software you can download and install on your computer or access through web browser. Allows you to write and manage text you write.
 A great feature of text editing software is code completion which allows you to start typing and will display possible suggestions. 
