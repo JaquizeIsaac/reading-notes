@@ -16,3 +16,6 @@ What is a semantic element?
 
 - Its describes the element.
 
+Sayonara, visit again.
+
+M. Isaac 🕸️

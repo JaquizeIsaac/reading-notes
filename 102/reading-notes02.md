@@ -20,3 +20,7 @@ Mkdir - make directory, create/make a new directory
 Touch - create, change, and modify timestamps on a file
 
 First you will change directory to projects, create a new directory titled new-project, then you will change/modify the title with new-project/newfile.md. You will again change directory, this time returning home/where you started. Lastly, you will bring up the list for projects/new-project and it should bring up a markdown file named newfile.md 
+
+Sayonara, visit again.
+
+M. Isaac 🐶

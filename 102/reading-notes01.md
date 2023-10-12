@@ -30,3 +30,7 @@ You will use brackets, [such as this], to create a text link. Following right af
 What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
 You can use plus signs, asterisks, and dashes.
+
+Sayonara, visit again.
+
+M. Isaac 🤯

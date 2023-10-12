@@ -19,3 +19,7 @@ git commit -m "Your commit message"
 What is the command to send your changed files to Github?
 
 git push origin <> with the branch name inside the arrows 
+
+Sayonara, visit again.
+
+M. Isaac 🐯
