@@ -19,7 +19,7 @@ My name is Myyela Isaac, but I perfer to be called M.J. I grew up in Memphis, TN
 
 > TABLE OF CONTENTS
 
-### CODE 102 READING NOTES
+### CODE 102 - Intro to Software Development
 
 [Class01](102/reading-notes01.md)
 
@@ -37,7 +37,7 @@ My name is Myyela Isaac, but I perfer to be called M.J. I grew up in Memphis, TN
 
 [Class08](102/reading-notes08.md)
 
-### Code 201 Reading Notes 
+### Code 201 - Foundations of Software Development
 
 [Class01](201/reading-notes01.md)
 
@@ -68,3 +68,8 @@ My name is Myyela Isaac, but I perfer to be called M.J. I grew up in Memphis, TN
 [Class14](201/reading-notes14.md)
 
 [Class15](201/reading-notes15.md)
+
+
+### Code 301 - Intermediate Software Development
+
+### Code 401 - Advanced Software Development
