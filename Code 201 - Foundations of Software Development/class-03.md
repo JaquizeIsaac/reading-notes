@@ -101,3 +101,6 @@ source:my own words
 > Give an example of when a Loop is useful in JavaScript.
 
 * A loop in JavaScript is useful when you have a repetitive task. Imagine you're packing boxes with products in a warehouse. You have a list of items to put in each box. Instead of doing it one by one, you can use a loop to repeat the process: "Put the next item in the box" until you've packed all the items. A loop is like a helpful machine that automates these repetitive tasks.
+
+## Things I want to know more about.
+
