@@ -97,3 +97,7 @@ source:CSS Layout: Normal Flow/CSS Layout: Positioning/ChatGPT
 * Function Invocation: This is when you actually do the task by following the recipe. You use the function with specific details to perform the task.
 
 source:ChatGPT
+
+## Things I want to know more about
+
+I want to know more about the difference between function invocation and function declaration. 
