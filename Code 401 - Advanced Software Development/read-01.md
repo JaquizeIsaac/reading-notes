@@ -12,3 +12,5 @@ Big O notation helps measure how well an algorithm performs based on data size. 
 > Based on the “Names and Values in Python” reading, explain the difference between mutable and immutable data types in Python.
 
 Mutable objects are those whose values can be altered after creation, such as lists, dictionaries, and sets. On the other hand, immutable objects, like integers, floats, and tuples, cannot be changed once they are created.
+
+## Things I want to know more about...
